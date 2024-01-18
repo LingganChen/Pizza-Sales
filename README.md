@@ -1,4 +1,8 @@
 # Pizza Sales Project
+## Preview
+![31cc80a32dcb5a882ddd9e60e0908c7](https://github.com/LingganChen/Pizza-Sales/assets/124526469/ae520aa3-75d1-4b28-b9c3-906cc6e8f2b0)
+![c71ea8fe29f72faf55d4b7af14da697](https://github.com/LingganChen/Pizza-Sales/assets/124526469/fee50a52-daeb-48b8-b1d4-097f4c9f4f2b)
+
 
 ## Overview
 
